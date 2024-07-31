@@ -1,0 +1,15 @@
+Aula 01 de backend dia 31 de Julho de 2024
+
+Git init - inicia o repositorio local
+
+Git status - verifica mudanças no repositorio local
+
+Git add nome do arquivo que houve mudança
+
+Git commit - m "mensagem do commit"
+
+Git log - histórico de alterações no repositorio
+
+Git config --global user.name "nome usuario do git"
+
+Git config --global user.email "email do git"
